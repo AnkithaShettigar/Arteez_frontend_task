@@ -1,0 +1,31 @@
+.box-image {
+  margin-left: 500px;
+  transform: rotate(-90deg);
+  position: absolute;
+}
+.input-value {
+  width: 200px;
+  height: 30px;
+  border: none;
+  outline: none;
+  border: 1px solid grey;
+  border-radius: 10px;
+  align-items: center;
+  justify-content: center;
+  margin-left: 500px;
+  margin-top: 100px;
+  color: blue;
+  font-weight: 600;
+  background-color: antiquewhite;
+}
+
+button {
+  border: none;
+  outline: none;
+  padding: 9px 7px;
+  background-color: brown;
+  border-radius: 20px;
+  font-weight: 700;
+  color: rgb(0, 0, 0);
+  margin-left: 10px;
+}
