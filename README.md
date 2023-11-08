@@ -69,11 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-
-
-###Steps to run the project
-
-
+### Steps to run the project
 ### `npm start` start the project
 
 ### Enter the input value and update the value
